@@ -7,3 +7,5 @@ Comandos Git
 4) git remote add url-del-github
 (enlazar con el repositorio remoto)
 5) git push -u origin master git push -u origin main 
+
+git status 
