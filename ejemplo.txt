@@ -1,0 +1,9 @@
+Comandos Git
+
+1) git init --Inicializa una carpeta como un repositorio localmente
+2) git add NombreArchivo git add .
+3) git commit -m "Primer commit, agregando archivo de ejemplo.txt"
+(mensaje para el commit)
+4) git remote add url-del-github
+(enlazar con el repositorio remoto)
+5) git push -u origin master git push -u origin main 
